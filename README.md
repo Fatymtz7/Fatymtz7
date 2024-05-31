@@ -1,5 +1,5 @@
 ## Hola 👋
-Estoy tomando el Diplomado de Técnicas Estadísticas y Minería de Datos, actualmente en el Módulo II: Modelos Estadísticos. Este módulo se enfoca en el mundo de la probabilidad, abordando distribuciones de probabilidad discretas y continuas, medidas de tendencia central, combinaciones, permutaciones y otros conceptos relacionados.
+Estoy tomando el Diplomado de Técnicas Estadísticas y Minería de Datos, actualmente en el Módulo II: Modelos Estadísticos. Este módulo se enfoca en el mundo de la probabilidad, abordando variables aleatorias discretas y continuas, medidas de tendencia central, combinaciones, permutaciones, además, simulación y métodos de estimación por intervalos.
 
 Durante este módulo, me centraré en retomar y practicar mis habilidades en probabilidad y estadística, así como aprender a utilizar Python como herramienta para análisis de datos.
 
